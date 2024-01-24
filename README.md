@@ -1,2 +1,2 @@
-# UltimateTicTacToeAI
-AI that solves the game Ultimate Tic Tac Toe
+# UltimateTicTacToe
+Creating the game Ultimate Tic Tac Toe in Python
